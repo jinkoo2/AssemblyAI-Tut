@@ -1,0 +1,9 @@
+Neighbourhood, num_of_rooms, Affordable
+West, 3, Yes
+West, 5, Yes
+West, 2, Yes
+East, 3, Yes
+East, 4, Yes
+East, 6, No
+East, 5, No
+East, 2, Yes
